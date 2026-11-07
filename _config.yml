@@ -1,0 +1,7 @@
+title: Mobile Debug Panel
+description: In-game cheats, console and bug reports for Unity
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
